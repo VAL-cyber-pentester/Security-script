@@ -50,10 +50,7 @@ Action : python C:\Projets\Veille-Cyber\veille_cyber.py
 0 9 * * * python3 /path/to/veille_cyber.py
 ```
 
-### Capture d'écran
 
-[Capture d'écran 1 ] (images\screenshot1.png)
-[capture d'écran 2]  (images
 
 ### Améliorations futures
 
