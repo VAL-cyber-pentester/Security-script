@@ -62,8 +62,6 @@ Action : python C:\Projets\Veille-Cyber\veille_cyber.py
 
 ---
 
----
-
 ## 🔐 Script de Hardening Linux Automatisé
 
 ### Description
@@ -148,7 +146,7 @@ Le script génère :
 
 ### Capture d'écran
 
-![Hardening Script Execution](screenshot_hardening.png)
+![Hardening Script Execution](screenshot_rapport_final.png)
 
 ### Sécurité
 
