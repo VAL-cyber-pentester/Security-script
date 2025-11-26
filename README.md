@@ -146,7 +146,10 @@ Le script génère :
 
 ### Capture d'écran
 
-![Hardening Script Execution](screenshot_rapport_final.png)
+![Hardening Script Execution](screenshot rapport final.png)
+![Hardening Script Execution](screenshot rapport final 2.png)
+![Hardening Script Execution](screenshot rapprt final 3.png)
+![Hardening Script Execution](screenshot rapport final 4.png)
 
 ### Sécurité
 
